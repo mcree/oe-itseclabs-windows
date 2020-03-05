@@ -1,0 +1,4 @@
+/.vagrant/
+/build/playbook.retry
+/build/win.iso
+/build/packer_cache
